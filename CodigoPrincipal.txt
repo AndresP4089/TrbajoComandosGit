@@ -2,4 +2,6 @@ Hola, aqui está el código
 adelantado hasta el momento.
 
 Edito el codigo para ver qué
-hace el comando status
+hace el comando status.
+
+Otro cambio.
